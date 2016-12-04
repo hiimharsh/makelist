@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="M A K E L I S T"
-        android:textSize="20sp"
+        android:textSize="24sp"
         android:textAllCaps="true"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColor="#000000"
@@ -18,8 +18,8 @@
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="#999"
+        android:layout_height="2dp"
+        android:background="#ccc"
         android:layout_alignParentBottom="true"/>
 
 </RelativeLayout>
